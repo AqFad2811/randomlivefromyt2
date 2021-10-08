@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: M3U generator
+name: Lofi Radio
 
 # Controls when the action will run. 
 on:
@@ -40,8 +40,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun.sh
-          ./autorun.sh
+          chmod +x lofiradio.sh
+          ./lofiradio.sh
         
       - name: git add
         run: |
