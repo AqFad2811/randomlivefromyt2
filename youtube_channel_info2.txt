@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | | 
-https://www.youtube.com/watch?v=UZuVNBYSN6E
+https://www.youtube.com/user/Reformed21TV/live
