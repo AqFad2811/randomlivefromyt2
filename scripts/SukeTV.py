@@ -34,7 +34,7 @@ def grab(url):
 
 
 print('<?php')
-print('    header('Location: 'line' '; ')
+print('    header('Location: line ';')
 print('?>')
 s = requests.Session()
 with open('../suketv_info.txt') as f:
