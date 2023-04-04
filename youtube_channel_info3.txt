@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | | 
-https://m.youtube.com/watch?v=R1WU8yPUAOo
+https://www.youtube.com/@thekpop/live
