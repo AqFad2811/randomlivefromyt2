@@ -1,4 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698523611/ei/exU9ZcW7B5un_9EPubWAqAw/ip/20.57.74.37/id/aJkIZDfn53Q.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-p5qddn7k.googlevideo.com/spc/UWF9f2mFJMKKX2QvKHtUOsEOGETBpPoPSSTjoT5QJg/vprv/1/playlist_type/LIVE/initcwndbps/2512500/mh/DW/mm/44/mn/sn-p5qddn7k/ms/lva/mv/m/mvi/4/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1698501673/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,spc,vprv,playlist_type/sig/AGM4YrMwRQIgDKsCi2nfpwGfjCGl45pLsmdBr_S0-uasGqY0d3L9yswCIQCdl-ImBCaeWjhkUGhvr-9LA3pmVDYvwT1jdnRlQvQtOg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRgIhAIBUPS3ANqBgwIXGn6RO5KqHwH_1F2iXhDAlmmDN1yFdAiEAxLjGC3nub6WjNQcB_SxkHKnVqELUD5Unx4ivYNLgZMs%3D/playlist/index.m3u8
+http-equiv="content-type" content="text/html; charset=utf-8"><meta name="viewport" content="initial-scale=1"><title>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698527248/ei/sCM9ZcSLM5j-kgaZi7foAw/ip/20.172.44.50/id/aJkIZDfn53Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/UWF9f581pRCxkYU3apoR3OJj1nRgl2oOvvENWO3RgQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgKUG0lP9In4xIjM66oFnNXHdBcerWl8EwYdziX8KJiEMCIQCTGEFywB9w0aeQTY9gRyunuMZukZB9lRHdHi78AJXp2A%3D%3D/file/index.m3u8</title></head>
+<body style="font-family: arial, sans-serif; background-color: #fff; color: #000; padding:20px; font-size:18px; overscroll-behavior:contain;" onload="e=document.getElementById('captcha');if(e){e.focus();} if(solveSimpleChallenge) {solveSimpleChallenge(,);}">
+<div style="max-width:400px;">
+<hr noshade size="1" style="color:#ccc; background-color:#ccc;"><br>
+<div style="font-size:13px;">
+Our systems have detected unusual traffic from your computer network.  Please try your request again later.  <a href="#" onclick="document.getElementById('infoDiv0').style.display='block';">Why did this happen?</a><br><br>
+<div id="infoDiv0" style="display:none; background-color:#eee; padding:10px; margin:0 0 15px 0; line-height:1.4em;">
+This page appears when Google automatically detects requests coming from your computer network which appear to be in violation of the <a href="//www.google.com/policies/terms/">Terms of Service</a>. The block will expire shortly after those requests stop.<br><br>This traffic may have been sent by malicious software, a browser plug-in, or a script that sends automated requests.  If you share your network connection, ask your administrator for help &mdash; a different computer using the same IP address may be responsible.  <a href="//support.google.com/websearch/answer/86640">Learn more</a><br><br>Sometimes you may see this page if you are using advanced terms that robots are known to use, or sending requests very quickly.
+</div><br>
+
+IP address: 20.172.44.50<br>Time: 2023-10-28T15:07:29Z<br>URL: https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698527248/ei/sCM9ZcSLM5j-kgaZi7foAw/ip/20.172.44.50/id/aJkIZDfn53Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/UWF9f581pRCxkYU3apoR3OJj1nRgl2oOvvENWO3RgQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgKUG0lP9In4xIjM66oFnNXHdBcerWl8EwYdziX8KJiEMCIQCTGEFywB9w0aeQTY9gRyunuMZukZB9lRHdHi78AJXp2A%3D%3D/file/index.m3u8<br>
+</div>
+</div>
+</body>
+</html>
