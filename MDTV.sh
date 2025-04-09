@@ -6,6 +6,6 @@ python3 -m pip install requests
 
 cd $(dirname $0)/scripts/
 
-python3 NET.py > ../NET.m3u8
+python3 MDTV.py > ../MDTV.m3u8
 
 echo m3u grabbed
