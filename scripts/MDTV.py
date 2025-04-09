@@ -10,16 +10,19 @@ if 'win' in sys.platform:
     windows = True
 
 def grab(url):
-    response = s.get(url, timeout=15).text
+    response = requests.get(url, timeout=15).text
     if '.m3u8' not in response:
-        if windows:
-            print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
-            return
-        os.system(f'wget {url} -O temp.txt')
-        response = ''.join(open('temp.txt').readlines())
+        #response = requests.get(url).text
         if '.m3u8' not in response:
-            print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
-            return
+            if windows:
+                print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
+                return
+            #os.system(f'wget {url} -O temp.txt')
+            os.system(f'curl "{url}" > temp.txt')
+            response = ''.join(open('temp.txt').readlines())
+            if '.m3u8' not in response:
+                print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
+                return
     end = response.find('.m3u8') + 5
     tuner = 100
     while True:
@@ -30,11 +33,7 @@ def grab(url):
             break
         else:
             tuner += 5
-    streams = s.get(link[start:end]).text.split('#EXT')
-    hd = streams[-1].strip()
-    st = hd.find('http')
-    print(hd[st:].strip())
-    #print(f"{link[start : end]}")
+    print(f"{link[start : end]}")
 
 print('#EXTM3U')
 print('#EXT-X-VERSION:3')
